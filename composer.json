@@ -1,0 +1,19 @@
+{
+    "name": "boostech/cte",
+    "description": "Pacote responsável por gerenciar métodos relacionados a CT-e",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Boostech\\Cte\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Romeiro",
+            "email": "j.romeiro@live.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
