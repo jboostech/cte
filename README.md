@@ -19,7 +19,7 @@ Este pacote foi desenvolvido com as seguintes tecnologias:
 1) Acesse a pasta do projeto na qual você deseja instalar o pacote (lembre-se dos pré-requisitos)
 2) Execute o comando:
 ```
-composer require boostech/cte:1.2
+composer require boostech/cte:1.0
 ```
 4) Será criada a pasta vendor/boostech/cte
 5) Edite o arquivo /<nome_projeto>/config/app.php e adicione a linha Boostech\Cte\Providers\CteServiceProvider::class dentro da tag providers
