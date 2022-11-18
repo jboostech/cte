@@ -38,6 +38,7 @@ composer require boostech/cte:1.0
 ```
 php artisan optimize
 php artisan migrate
+composer dump-autoload
 
 ```
 7) Serão criadas duas tabelas no seu banco de dados:
